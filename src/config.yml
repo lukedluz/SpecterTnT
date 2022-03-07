@@ -1,0 +1,11 @@
+TnT:
+    name: '&cTNT de impulsão'
+    lore:
+    - ''
+    - '&7Ao colocar este bloco no chão'
+    - '&7ele se transformará em uma TnT'
+    - '&7que não destrói outros blocos.'
+    - ''
+    - ' &e* Utilizada na criação de canhões.'
+    - ''
+    glow: true

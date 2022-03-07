@@ -1,0 +1,7 @@
+name: SnockTnT
+version: 1.0
+main: com.snockmc.tnt.SnockTnT
+author: [MrDrawn]
+
+commands:
+    givetnt:
